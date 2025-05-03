@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "name": "suman",
+        "description": "suman is a react js trainer currently working in test yantra software solution pvt ltd.dd",
+        "id": "1"
+      },
+      {
+        "id": "1b894e25-4dce-4e80-8ca5-b5dfc6b5d91a",
+        "name": "kaustubh",
+        "description": "java trainer"
+      },
+      {
+        "id": "d82b8816-3b26-4fbb-9380-c74a165ec6b1",
+        "name": "sushanth",
+        "description": "sql trainer"
+      },
+      {
+        "id": "1574afe4-17f5-4dd4-ad81-54965afb4965",
+        "name": "Rahul",
+        "description": "Tracker"
+      },
+      {
+        "id": "7676fef9-e266-410e-a109-38aa3a05c82d",
+        "name": "Ajay",
+        "description": "Hr"
+      }
+    ],
+    "login": [
+      {
+        "un": "suman",
+        "pwd": "123"
+      }
+    ]
+  }
